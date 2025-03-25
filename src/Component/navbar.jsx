@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="mt-2 flex space-x-8 text-gray-600 text-lg">
           <a href="/" className="hover:text-teal-500 transition">Portfolio</a>
           <a href="/contact" className="hover:text-gray-800 transition">Work</a>
-          <a href="/About" className="hover:text-gray-800 transition">About</a>
+          <a href="/about" className="hover:text-gray-800 transition">About</a>
           
         </div>
       </div>
